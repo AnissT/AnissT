@@ -10,7 +10,6 @@ Hi 👋 My name is Anis
 
 🚀 Currently developing personal projects in data analysis, machine learning and information systems  
 
-✉️ You can contact me at: anistennis46@gmail.com  
 
 
 ## 🌐 Socials:
